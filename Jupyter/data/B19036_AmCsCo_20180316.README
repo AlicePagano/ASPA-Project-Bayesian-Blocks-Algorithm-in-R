@@ -1,0 +1,6 @@
+The following data files have been collected with an
+ORTEC MCA and are in ascii format.
+The first row contains the minimum and maximum
+ADC x-axis value: x_min and x_max
+All data, from x_min and x_max are given
+below, one row per adc value
