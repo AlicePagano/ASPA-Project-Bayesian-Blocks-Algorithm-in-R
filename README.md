@@ -1,4 +1,6 @@
-# ASPA---Bayesian-Blocks-algorithm
+# Advanced Statistics for Physics Analysis
+
+## Bayesian-Blocks-algorithm implementation in R
 
 ## Abstract
 
@@ -7,5 +9,7 @@ The Bayesian Block algorithm can be used to improve the binning of histograms by
 ## Folder organization
 
 The folder are organized in the following way:
+
 * **Jupyter**: contains the jupyter notebook, in which the code for Bayesian Blocks is implemented, and the available datasets.
+
 * **Latex source**: contains the latex source for the project report.
