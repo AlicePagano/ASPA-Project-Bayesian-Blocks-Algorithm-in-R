@@ -2,8 +2,6 @@
 
 ## Bayesian-Blocks-algorithm implementation in R
 
-## Abstract
-
 The Bayesian Block algorithm can be used to improve the binning of histograms by finding the optimal segmentation of the data. The visual improvement can be dramatic, but, more importantly, this algorithm produces histograms that accurately represent the underlying distribution while being robust to statistical fluctuations. In this project, the Bayesian Blocks algorithm is implemented in R and its performances are tested with different sets of data.
 
 ## Folder organization
